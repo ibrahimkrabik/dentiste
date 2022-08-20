@@ -134,7 +134,7 @@ document.addEventListener('click', function (e) {
                 <li>Phone:</li>
                 <li>Blood Type:</li>
                 <li>Kind:</li>
-                <li>Date Barking:</li>
+                <li>Booking Date:</li>
             </ul>
        <ul>${e.target.parentElement.innerHTML}</ul>`;
               document.querySelector('.main-detail').classList.add('open');
