@@ -73,10 +73,10 @@ svg {
 }
 @media (max-width: 767px) {
        .tabs ul li {
-              padding-left: 1rem;
+              padding-left: 0rem;
        }
        .nav-tabs {
-              margin: 3rem 3rem;
+              margin: 3rem 1rem;
        }
 }
 .nav-tabs .nav-link {
