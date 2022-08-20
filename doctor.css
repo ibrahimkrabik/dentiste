@@ -43,11 +43,7 @@ svg {
        background: linear-gradient(var(--first-color), var(--third-color));
        padding: 0.5rem;
 }
-@media (max-width: 767px) {
-       .navv {
-              padding: 1.5rem;
-       }
-}
+
 .navv .new h5{
        color: var(--forty-color);
        font-weight: bold;
